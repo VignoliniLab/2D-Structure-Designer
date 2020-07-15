@@ -1,0 +1,16 @@
+If you use this code for any published work, please cite it using the references
+below:
+
+@article{,
+  author =    {Gianni Jacucci, Jacopo Bertolotti, Silvia Vignolini},
+  title =     {Role of Anisotropy and Refractive Index in Scattering and Whiteness Optimization},
+  year =      {2019},
+  journal = {Advanced Optical Materials}
+}
+
+@article{,
+  author =    {Gianni Jacucci, Silvia Vignolini, Lukas Schertel},
+  title =     {Colors from correlated disordered photonic systems - can we outperform nature?},
+  year =      {2020},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America}
+}
